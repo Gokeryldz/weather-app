@@ -26,7 +26,7 @@ Bu repository'i bilgisayarınıza klonlayın:
 bash
 Kopyala
 Düzenle
-git clone https://github.com/Gokeryldz/hava-durumu-uygulamasi.git
+git clone https://github.com/Gokeryldz/weather-app.git
 Proje dizinine gidin:
 
 bash
